@@ -401,6 +401,7 @@ GameObject:
   - component: {fileID: 1499446423}
   - component: {fileID: 1499446422}
   - component: {fileID: 1499446424}
+  - component: {fileID: 1499446425}
   m_Layer: 0
   m_Name: Police
   m_TagString: Untagged
@@ -497,6 +498,22 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 2
+--- !u!114 &1499446425
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1499446421}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5298182a8c33d4ea69c3d76d45c09a01, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  policeSpeed: 4
+  policeOrigin: {fileID: 1616635760}
+  rbPolice: {fileID: 1499446424}
+  isDirRight: 0
 --- !u!1 &1616635759
 GameObject:
   m_ObjectHideFlags: 0
