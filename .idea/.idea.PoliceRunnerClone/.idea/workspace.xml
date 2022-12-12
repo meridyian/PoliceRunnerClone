@@ -9,6 +9,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../PoliceRunner2D/Assets/Scripts/Player.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../PoliceRunner2D/Assets/Scripts/spawnBullet.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Bullet.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PoliceMovement.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -68,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1670857585723</updated>
       <workItem from="1670857590934" duration="477000" />
-      <workItem from="1670858091198" duration="4721000" />
+      <workItem from="1670858091198" duration="5938000" />
     </task>
     <servers />
   </component>

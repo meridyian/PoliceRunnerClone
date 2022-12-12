@@ -231,6 +231,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1032141365}
   - component: {fileID: 1032141366}
+  - component: {fileID: 1032141367}
   m_Layer: 0
   m_Name: SpawnPoint
   m_TagString: Untagged
@@ -268,7 +269,23 @@ MonoBehaviour:
   fovAngle: 90
   fovPoint: {fileID: 1032141365}
   range: 15
+  isPlayer: 0
+  dir: {x: 0, y: 0}
   target: {fileID: 1240840277}
+--- !u!114 &1032141367
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1032141364}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0cf7d1ccce9f842009f82893a8ba02a3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bulletPrefab: {fileID: 2581638929333239691, guid: 7daf7e7bc02f14c13bccc68a679c3b78, type: 3}
+  fieldofview: {fileID: 1032141366}
 --- !u!1 &1240840274
 GameObject:
   m_ObjectHideFlags: 0
