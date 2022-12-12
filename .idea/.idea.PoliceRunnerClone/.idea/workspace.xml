@@ -9,6 +9,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../PoliceRunner2D/Assets/Scripts/Player.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Bullet.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -66,7 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1670857585723</updated>
       <workItem from="1670857590934" duration="477000" />
-      <workItem from="1670858091198" duration="760000" />
+      <workItem from="1670858091198" duration="924000" />
     </task>
     <servers />
   </component>
